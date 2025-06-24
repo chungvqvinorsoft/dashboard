@@ -11,7 +11,8 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 # Demo
-Account can try
+Account can try in
+https://chungvqvinorsoft.github.io/dashboard/
 
 user: chung
 mk: St@2025
