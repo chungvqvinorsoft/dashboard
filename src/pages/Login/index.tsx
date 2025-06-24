@@ -51,9 +51,7 @@ export default function Login() {
         localStorage.setItem("id", respone[0]?.id);
         localStorage.setItem("username", respone[0]?.username);
         localStorage.setItem("name", respone[0]?.name);
-        localStorage.setItem("password", respone[0]?.password);
-        window.location.reload();
-        window.location.href = "/";
+        window.location.href = "/dashboard";
       }
     } catch (error: any) {
       if (error?.errorFields) {
