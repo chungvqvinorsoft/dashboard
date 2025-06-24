@@ -1,0 +1,88 @@
+/* .form-info {
+  padding: 12px;
+  overflow: auto;
+  height: 80%;
+} */
+
+.label {
+    padding-bottom: 8px;
+    font-size: 14px;
+    display: block;
+    padding-top: 4px;
+    color: rgba(0, 0, 0, 0.7);
+    margin: 0;
+}
+
+.info-item {
+    border-radius: 4px !important;
+    background-color: white !important;
+    color: rgba(0, 0, 0, 1) !important;
+    width: 100% !important;
+    height: 40px !important;
+}
+
+
+.select {
+    height: 36px;
+    overflow: hidden;
+}
+
+.select>div {
+    border: 1px solid rgba(0, 0, 0, 0.2) !important;
+    border-radius: 4px !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.switch {
+    min-width: 40px !important;
+}
+
+.name-table {
+    font-size: 16px;
+    font-weight: 600;
+    /* padding-bottom: 12px; */
+    /* border-bottom: 1px solid #f0f0f0; */
+}
+
+.color-picker {
+    height: 36px;
+}
+
+.select-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.input, .input > div {
+    height: 36px;
+    /* border: 1px solid rgba(0, 0, 0, 0.2) !important; */
+    border-radius: 4px !important;
+    outline: none !important;
+    box-shadow: none !important;
+} 
+
+.select>div {
+    background-color: white !important;
+    color: black !important;
+}
+
+.datepicker {
+    height: 36px;
+    border-radius: 4px !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
+.input-default {
+    text-align: right;
+    border: none !important;
+    outline: none;
+    margin-right: 24px !important;
+}
+
+.form {
+    text-align: left;
+}

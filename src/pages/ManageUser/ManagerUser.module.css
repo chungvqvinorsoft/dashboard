@@ -1,0 +1,19 @@
+.filter {
+    padding: 16px;
+    padding-bottom: 0;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.addnew-btn {
+    margin-top: 4px;
+}
+
+.table {
+    padding: 0 16px;
+}
+
+.action-btn {
+    border: none;
+    padding: 0;
+}
